@@ -98,8 +98,7 @@ Código ordenado y reutilizable
 🚀 Instalación y ejecución
 
 # Clonar repositorio
-git clone https://github.com/usuario/country-app.git
-
+git clone https://github.com/GlaMoli/C3-M4Sprint5.git
 # Instalar dependencias
 npm install
 
