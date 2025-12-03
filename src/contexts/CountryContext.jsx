@@ -7,7 +7,6 @@ import { toast } from "react-toastify";
 export const CountryContext = createContext();
 
 // URL del  backend
-const API_URL = import.meta.env.VITE_API_URL + "/countries";
 const API_URL = "https://c3m4-sprint5.onrender.com/api/countries";
 
 export const CountryProvider = ({ children }) => {
